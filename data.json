@@ -2,16 +2,16 @@
 {
   "posts" : [
     {
-      'title' : 'Test1',
-      'content': 'fds flkdsj flkdsjf dslk fjsdlkfj dslkfj sdlkfddlksj'
+      "title" : "Test1",
+      "content": "fds flkdsj flkdsjf dslk fjsdlkfj dslkfj sdlkfddlksj"
     },
     {
-      'title' : 'Test2',
-      'content': 'fds flkdsj flkdsjf dslk fjsdlkfj dslkfj sdlkfddlksj'
+      "title" : "Test2",
+      "content": "fds flkdsj flkdsjf dslk fjsdlkfj dslkfj sdlkfddlksj"
     },
     {
-      'title' : 'Test3',
-      'content': 'fds flkdsj flkdsjf dslk fjsdlkfj dslkfj sdlkfddlksj'
+      "title" : "Test3",
+      "content": "fds flkdsj flkdsjf dslk fjsdlkfj dslkfj sdlkfddlksj"
     }
   ]
 }
